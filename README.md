@@ -1,5 +1,4 @@
 # -EDA-and-Visualization-of-a-Real-World-Dataset
-# Fraud Detection Project
 
 ## Project Overview
 This project involves analyzing a dataset to identify fraudulent transactions. The steps include loading and exploring the data, cleaning it to handle inconsistencies, visualizing key insights, and summarizing the findings.
@@ -24,15 +23,5 @@ This project involves analyzing a dataset to identify fraudulent transactions. T
 - **Histograms**: Plotted for numerical variables to understand their distributions.
 - **Correlation Heatmap**: Created to identify relationships between numeric features.
 
-### 4. Insights and Observations
-- Highlighted trends and anomalies observed from the visualizations.
-- Documented any features or relationships that could indicate fraudulent behavior.
 
 ---
-
-## How to Run the Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/FraudDetection.git
-   cd FraudDetection
